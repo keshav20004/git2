@@ -1,2 +1,4 @@
 Hello world !!!
 take input from user and add the value
+
+create an avatar for user
